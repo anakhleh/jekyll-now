@@ -6,4 +6,4 @@ permalink: /about/
 
 ### Contact
 
-[email@domain.com](mailto:anakhleh@collegeforcreativestudies.edu)
+[alexnakhlehart@gmail.com](mailto:alexnakhlehart@gmail.com)
