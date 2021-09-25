@@ -72,7 +72,8 @@ kramdown:
 sass:
   style: :expanded # You might prefer to minify using :compressed
   
-future:true
+future: 
+true
 
 # Use the following plug-ins
 gems:
