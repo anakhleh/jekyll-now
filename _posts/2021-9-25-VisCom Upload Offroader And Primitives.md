@@ -2,5 +2,5 @@
 layout: post
 title: Offroader And Primitives
 ---
-[image](/images/Ovoid-Form-Blending.jpg)
+![image](/images/Ovoid-Form-Blending.jpg)
 
